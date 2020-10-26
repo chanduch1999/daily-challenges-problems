@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
     set <char> x;
-    int n;
+    long long int n;
     cin >> n;
     if(n>26)
     {
